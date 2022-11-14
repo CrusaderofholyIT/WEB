@@ -1,4 +1,5 @@
 /*правило для элементов main*/
+<style>
 main {}
 
 body {
@@ -91,3 +92,4 @@ li {
 ol {
     font-size: 2.7vmin;
 }
+</style>
